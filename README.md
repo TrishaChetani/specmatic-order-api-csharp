@@ -1,7 +1,7 @@
 # Specmatic Sample Client Application
 
 * [Specmatic Website](https://specmatic.io)
-* [Specmatic Documentation](https://specmatic.io/documentation.html)
+* [Specmatic Documentation](https://docs.specmatic.io)
 
 ![HTML client talks to client API which talks to backend api](specmatic-sample-architecture.svg)
 
@@ -16,12 +16,12 @@ The architecture diagram was created using the amazing free online SVG editor at
 ## Tech
 1. .NET core
 2. Specmatic
-3. Docker
+3. Docker Desktop
 
 ### Prerequisites
 
 1. Dotnet SDK
-2. If you are on a Windows OS, please use PowerShell.
+2. Docker Desktop
 
 ### How to run the application?
 
